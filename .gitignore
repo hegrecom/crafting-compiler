@@ -366,3 +366,10 @@ FodyWeavers.xsd
 /Machine/Build
 /Parser/Build
 /Scanner/Build
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+MakeFile
+compile_commands.json
+*.cmake
